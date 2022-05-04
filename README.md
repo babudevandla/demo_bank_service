@@ -16,7 +16,7 @@ Requirements
 	
   5.	Getting Started
   6. Checkout the project from GitHub
-  7. git clone https://github.com/babudevandla/demo_bank_service/
+  7. git clone https://github.com/babudevandla/demo_bank_service.git
 
 	
 	
